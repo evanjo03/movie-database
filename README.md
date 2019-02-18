@@ -8,8 +8,8 @@ Created after exposure to AJAX calls, this application was a personal project fo
 
 ## Built With
 * Bootstrap framework
-*OMDB
-*AJAX
+* OMDB
+* AJAX
 * jQuery
 * Visual Basic - Text Editor
  
